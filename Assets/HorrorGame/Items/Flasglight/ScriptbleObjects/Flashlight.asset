@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Flashlight
   m_EditorClassIdentifier: 
   <RotationItem>k__BackingField: {x: -12, y: 21, z: 3}
-  <PositionItem>k__BackingField: {x: 0.54, y: -0.64, z: 0.75}
+  <PositionItem>k__BackingField: {x: 0.5, y: -0.6, z: 0.6}
